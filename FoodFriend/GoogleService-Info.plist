@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>28707297139-u0l12puc5odsoncgblr4rf1bjrsp8cku.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.28707297139-u0l12puc5odsoncgblr4rf1bjrsp8cku</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCs_w2UhI7axNNrE1gL7uFkUBGzSGye9-s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>28707297139</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.karamali.FoodFriend</string>
+	<key>PROJECT_ID</key>
+	<string>foodfriend-d0317</string>
+	<key>STORAGE_BUCKET</key>
+	<string>foodfriend-d0317.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:28707297139:ios:77b4fe6e41a3423f255706</string>
+</dict>
+</plist>

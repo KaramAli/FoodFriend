@@ -1,0 +1,6 @@
+framework module Pods_FoodFriend {
+  umbrella header "Pods-FoodFriend-umbrella.h"
+
+  export *
+  module * { export * }
+}
